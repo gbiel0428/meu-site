@@ -1,0 +1,54 @@
+/* RESET DE CONFIGURAÇÕES GERAIS PARA OS NAVEGADORES. */
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(230, 226, 221);
+    background-image: url("assetss/OIP\ \(1\).webp");
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+img {
+    width: 800px;
+    margin: 80px;
+    padding: 0px;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    margin: 21px;
+}
+
+h2 {
+    margin: 20PX;
+    font-size: 50PX;
+}
+
+h3 {
+    font-size: 50px;
+    margin: 20px;
+    
+    
+}
+
+h4 {
+    margin: 50px;
+    font-size: 30px;
+}
+p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    color: rgb(0, 0, 0)
+}
