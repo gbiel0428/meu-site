@@ -7,7 +7,7 @@
 
 body {
     background-color: rgb(230, 226, 221);
-    background-image: url("assetss/OIP\ \(1\).webp");
+    background-image: url("assets/oip-bg.webp");
     background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,4 +51,5 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     margin: 50px;
     color: rgb(0, 0, 0)
+
 }
